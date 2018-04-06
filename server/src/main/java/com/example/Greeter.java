@@ -4,6 +4,7 @@ package com.example;
  * This is a test class.
  * We are testing again
  */
+generating error
 public class Greeter {
 
   /**
